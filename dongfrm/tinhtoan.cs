@@ -27,6 +27,12 @@ namespace vidu01
         public int nhan()
         { return a * b; }
         public int chia()
-        { return a / b; }
+        {
+            if (b == 0)
+            {
+                throw new DivideByZeroException("Lỗi: Không thể chia cho 0.");
+            }
+            return a / b;
+        }
     }
 }
