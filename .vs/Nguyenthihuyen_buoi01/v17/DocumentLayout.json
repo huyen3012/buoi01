@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|d:\\nguyenthihuyen_buoi01\\nguyenthihuyen_buoi01\\dongfrm\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{156CA23D-4330-4062-991A-6FB0D53DC1AB}|dongfrm\\dongfrm.csproj|solutionrelative:dongfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tinhtoan.cs",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\tinhtoan.cs",
+              "RelativeDocumentMoniker": "dongfrm\\tinhtoan.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\tinhtoan.cs",
+              "RelativeToolTip": "dongfrm\\tinhtoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:03:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Program.cs",
+              "RelativeDocumentMoniker": "dongfrm\\Program.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Program.cs",
+              "RelativeToolTip": "dongfrm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:01:21.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm2.cs",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\frm2.cs",
+              "RelativeDocumentMoniker": "dongfrm\\frm2.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\frm2.cs",
+              "RelativeToolTip": "dongfrm\\frm2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:55:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm2.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\frm2.cs",
+              "RelativeDocumentMoniker": "dongfrm\\frm2.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\frm2.cs [Design]",
+              "RelativeToolTip": "dongfrm\\frm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:53:56.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.cs",
+              "RelativeDocumentMoniker": "dongfrm\\Form1.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.cs [Design]",
+              "RelativeToolTip": "dongfrm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:53:45.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.cs",
+              "RelativeDocumentMoniker": "dongfrm\\Form1.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.cs",
+              "RelativeToolTip": "dongfrm\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:36:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "dongfrm\\Form1.Designer.cs",
+              "ToolTip": "D:\\NguyenThiHuyen_Buoi01\\Nguyenthihuyen_buoi01\\dongfrm\\Form1.Designer.cs",
+              "RelativeToolTip": "dongfrm\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:01:54.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

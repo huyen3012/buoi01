@@ -1,0 +1,11 @@
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\bin\Debug\dongfrm.exe.config
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\bin\Debug\dongfrm.exe
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\bin\Debug\dongfrm.pdb
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.csproj.AssemblyReference.cache
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.frm1.resources
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.frm2.resources
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.Properties.Resources.resources
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.csproj.GenerateResource.cache
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.csproj.CoreCompileInputs.cache
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.exe
+D:\NguyenThiHuyen_Buoi01\Nguyenthihuyen_buoi01\dongfrm\obj\Debug\dongfrm.pdb
